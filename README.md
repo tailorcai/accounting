@@ -1,13 +1,13 @@
 # Adapted to maven
-dependency:
-  mifos-core-api
-  mifos-core-lang
-  mifos-core-test
-  mifos-core-async
-  mifos-core-command
-  mifos-core-cassandra
-  mifos-core-mariadb
-  mifos-anubis
+## dependency:
+  * mifos-core-api
+  * mifos-core-lang
+  * mifos-core-test
+  * mifos-core-async
+  * mifos-core-command
+  * mifos-core-cassandra
+  * mifos-core-mariadb
+  * mifos-anubis
 
 # Mifos I/O Accounting
 
